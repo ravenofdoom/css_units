@@ -1,0 +1,56 @@
+html {
+    font-size: 62px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+  }
+  
+  h1 {
+    font-size: 20vw;
+    font-size: 8vh;
+  }
+  
+  .pink {
+    
+    background-color: pink;
+    width: 50%;
+  }
+  
+  .lightblue {
+    
+    background-color: lightblue;
+    font-size: 32px;
+  }
+  
+  .one {
+    font-size: 18px;
+  }
+  
+  #second {
+    font-size: 3vw;
+  }
+  
+  #third {
+    font-size: 5vh;
+  }
+  
+  #second_second {
+  font-size: 100%;
+  }
+  
+  #third_third {
+  
+  }
+  
+  .orange {
+   
+    width: 80vw;
+    height: 50vh;
+    background-color: orange;
+  }
+
+  
+  
